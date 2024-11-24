@@ -1,5 +1,5 @@
 # CODTECH-Task2
-# CODTECH-Task4: Computer Vision - EfficientNetB0 Model for Image Classification
+# Task4: Computer Vision - EfficientNetB0 Model for Image Classification
 
 ## Steps in Computer Vision Task
 
